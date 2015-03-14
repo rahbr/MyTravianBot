@@ -1,0 +1,2 @@
+# MyTravianBot
+Experimental Travian Bot
